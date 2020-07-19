@@ -2,7 +2,7 @@
 
 My name is Vic and I write interesting & very useful articles on my [Dev.to](https://dev.to/koddr) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots. I'm one of the fathers of Go web framework called [Fiber](https://github.com/gofiber/fiber) and a lot of things around him.
 
-Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli).
+Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects written in Go by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli).
 
 So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dreamer with over **12+ years** of experience... whatever that means! 😅
 
