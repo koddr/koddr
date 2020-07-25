@@ -9,3 +9,16 @@ So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dream
 All of this I do in my spare time from a main job, as a founder and full stack web developer at [True web artisans](https://1wa.co/). The main areas of my specialization are Go, modern JavaScript & CSS, Docker and automation.
 
 If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**. Thank you and see you soon! 🥰
+
+<a href="https://github.com/koddr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=onedark&line_height=24" alt="koddr's github stats" />
+</a>
+<hr/>
+<a href="https://github.com/gofiber/fiber">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=onedark" />
+</a>
+<a href="https://github.com/create-go-app/cli">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=onedark" />
+</a>
