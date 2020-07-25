@@ -13,7 +13,7 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 <a href="https://github.com/koddr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=onedark&line_height=24" alt="koddr's github stats" />
 </a>
-<hr/>
+<br/>
 <a href="https://github.com/gofiber/fiber">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=onedark" />
