@@ -12,7 +12,7 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 ## Statistic and Links
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=css,vue" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=27" alt="koddr's github stats" /></a>
+<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=css,vue,html" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=27" alt="koddr's github stats" /></a>
 
 - 👯 I'm looking to collaborate on [Create Go App CLI](https://github.com/create-go-app/cli)
 - 💬 Ask me about anything [here](https://github.com/koddr/koddr/issues)
