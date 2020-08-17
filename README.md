@@ -17,7 +17,7 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 - 👯 I'm looking to collaborate on [Create Go App CLI](https://github.com/create-go-app/cli)
 - 💬 Ask me about anything [here](https://github.com/koddr/koddr/issues)
 
-## Awesome projects
+## Awesome projects by me or with my active support
 
 <a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default" /></a>
 
