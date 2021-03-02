@@ -2,7 +2,7 @@
 
 My name is **Vic Shóstak** and I write interesting & very useful articles on my [Dev.to](https://dev.to/koddr) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots. I'm one of the fathers of Go web framework called [Fiber](https://github.com/gofiber/fiber) and a lot of things around him.
 
-Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects written in Go by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli).
+Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects written in Go by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli). By the way, I'm looking for people to work with me on this project (authors of backend templates & Docker containers).
 
 So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dreamer with over **12+ years** of experience... whatever that means! 😅
 
@@ -14,15 +14,13 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 <a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=html,css,vue" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
-## Dev.to badges
-
-[![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
-
 ## Awesome projects by me or with my active support
 
 <a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>
 
-🔥 By the way, I'm looking for people to work with me on the [Create Go App](https://github.com/create-go-app) project (CLI, backend templates & containers).
+## Dev.to badges
+
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
 
 ## Thank you and see you soon!
 
