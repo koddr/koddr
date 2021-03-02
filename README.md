@@ -14,9 +14,6 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 <a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=html,css,vue" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
-- 👯 I'm looking for great people to work with me on the [Create Go App](https://github.com/create-go-app) project
-- 💬 Ask me about anything [here](https://github.com/koddr/koddr/issues)
-
 ## Dev.to badges
 
 [![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
@@ -25,6 +22,8 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 <a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>
 
+> 🔥 By the way, I'm looking for great people to work with me on the [Create Go App](https://github.com/create-go-app) project.
+
 ## Thank you and see you soon!
 
-If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful** 🥰
+If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
