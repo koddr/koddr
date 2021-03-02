@@ -22,6 +22,6 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 [![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
 
-## Thank you and see you soon!
+## Thank you!
 
 If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
