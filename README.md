@@ -19,7 +19,7 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 ## Dev.to badges
 
-![dev.to badges](https://user-images.githubusercontent.com/11155743/109643564-72086c00-7b65-11eb-97f8-cbda12065bd6.jpg)
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
 
 ## Awesome projects by me or with my active support
 
