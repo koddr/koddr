@@ -12,14 +12,18 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 ## Statistic and Links
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=css,vue,html" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=27" alt="koddr's github stats" /></a>
+<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=html,css,vue" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
-- 👯 I'm looking to collaborate on [Create Go App CLI](https://github.com/create-go-app/cli)
+- 👯 I'm looking for great people to work with me on the [Create Go App](https://github.com/create-go-app) project
 - 💬 Ask me about anything [here](https://github.com/koddr/koddr/issues)
+
+## Dev.to badges
+
+![dev.to badges](https://user-images.githubusercontent.com/11155743/109643564-72086c00-7b65-11eb-97f8-cbda12065bd6.jpg)
 
 ## Awesome projects by me or with my active support
 
-<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default" /></a>
+<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>
 
 ## Thank you and see you soon!
 
