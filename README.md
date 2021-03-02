@@ -10,7 +10,7 @@ So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dream
 
 All of this I do in my spare time from a main job, as a founder and full stack web developer at [True web artisans](https://1wa.co/). The main areas of my specialization are Go, modern JavaScript & CSS, Docker and automation.
 
-## Statistic and Links
+## Statistics
 
 <a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=html,css,vue" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
@@ -22,7 +22,7 @@ All of this I do in my spare time from a main job, as a founder and full stack w
 
 <a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>
 
-> 🔥 By the way, I'm looking for great people to work with me on the [Create Go App](https://github.com/create-go-app) project.
+🔥 By the way, I'm looking for people to work with me on the [Create Go App](https://github.com/create-go-app) project (CLI, backend templates & containers).
 
 ## Thank you and see you soon!
 
