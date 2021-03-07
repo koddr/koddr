@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-My name is **Vic Shóstak** and I write interesting & very useful articles on my [Dev.to](https://dev.to/koddr) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots. I'm one of the fathers of Go web framework called [Fiber](https://github.com/gofiber/fiber) and a lot of things around him.
+My name is **Vic Shóstak** and I write interesting & very useful articles on my [Dev.to](https://dev.to/koddr) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots. I'm one of the fathers of Go web framework called [Fiber](https://github.com/gofiber/fiber) and a lot of things around him. I'm the author of official logos for Python web frameworks such as [Starlette](https://github.com/koddr/starlette-logo) and [Quart](https://github.com/koddr/quart-logo).
 
 Also, I'm developing a very helpful tool (with advanced ecosystem) to automate the process of initial preparation and deployment of full cycle projects written in Go by running one CLI command, called [Create Go App](https://github.com/create-go-app/cli). _By the way, I'm looking for people to work with me on this project (authors of backend templates & Docker containers)_.
 
