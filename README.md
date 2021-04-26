@@ -12,7 +12,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 ## Statistics
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=javascript,html,css,vue,makefile" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
+<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&theme=default&hide=javascript,html,css,vue,makefile,shell" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
 ## Awesome projects by me or with my active support
 
