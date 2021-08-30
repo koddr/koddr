@@ -12,13 +12,13 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 ## Statistics
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&layout=compact&langs_count=10&hide_border=true&custom_title=Most+used+languages&hide=javascript,sass" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
+<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&layout=compact&langs_count=10&hide_border=true&custom_title=Most+used+languages&hide=javascript,sass" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&hide_border=true&theme=default&line_height=25" alt="koddr's github stats" /></a>
 
 ## Awesome projects by me or with my active support
 
-<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=default&show_owner=true" /></a>
+<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=default&show_owner=true&hide_border=true" /></a>
 
-<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true" /></a>&nbsp;<a href="https://github.com/koddr/reactless-ts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koddr&repo=reactless-ts&theme=default&show_owner=true" /></a>
+<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/koddr/reactless-ts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koddr&repo=reactless-ts&theme=default&show_owner=true&hide_border=true" /></a>
 
 ## Dev.to badges
 
