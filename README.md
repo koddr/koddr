@@ -12,17 +12,17 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 ## Statistics
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&layout=compact&langs_count=10&hide_border=true&custom_title=Most+used+languages&hide=javascript,sass,makefile,shell" alt="koddr's language stats" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&hide_border=true&theme=default&line_height=22" alt="koddr's github stats" /></a>
+<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&layout=compact&langs_count=10&hide_border=true&theme=onedark&custom_title=Most+used+languages&hide=javascript,sass,makefile,shell" alt="koddr's language stats" /></a>&nbsp;<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=koddr&show_icons=true&hide_border=true&theme=onedark&line_height=22" alt="koddr's github stats" /></a>
 
 ## Awesome projects by me or with my active support
 
-<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=default&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=default&show_owner=true&hide_border=true" /></a>
+<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=onedark&show_owner=true&hide_border=true" /></a>
 
-<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=default&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/koddr/reactless-ts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koddr&repo=reactless-ts&theme=default&show_owner=true&hide_border=true" /></a>
+<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/koddr/reactless-ts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koddr&repo=reactless-ts&theme=onedark&show_owner=true&hide_border=true" /></a>
 
 ## Dev.to badges
 
-[![dev.to badges](https://user-images.githubusercontent.com/11155743/109646218-f7d9e680-7b68-11eb-9511-5efaff7cb9e5.jpg)](https://dev.to/koddr)
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/138603362-be71ed7d-aecb-4102-a100-da2410ff8944.png)](https://dev.to/koddr)
 
 ## Thank you!
 
