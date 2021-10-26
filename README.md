@@ -18,7 +18,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 <a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=onedark&show_owner=true&hide_border=true" /></a>
 
-<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/koddr/reactless-ts"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koddr&repo=reactless-ts&theme=onedark&show_owner=true&hide_border=true" /></a>
+<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/create-go-app/fiber-go-template"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=fiber-go-template&theme=onedark&show_owner=true&hide_border=true" /></a>
 
 ## Dev.to badges
 
