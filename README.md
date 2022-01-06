@@ -22,7 +22,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 ## Dev.to badges
 
-[![dev.to badges](https://user-images.githubusercontent.com/11155743/143181857-47896775-d03a-42d1-bae1-b8b0bbf4a354.png)](https://dev.to/koddr)
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/148337528-c165e68f-e48b-4f4d-9615-2257826a0d98.png)](https://dev.to/koddr)
 
 ## Thank you!
 
