@@ -8,7 +8,13 @@ So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dream
 
 ## My work
 
-All of this I do in my spare time from a main job, as a founder and Software Engineer at [True web artisans](https://1wa.co/). The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. On a personal basis, I do commercial consulting about UX of a product, selecting the best growth strategy and building a positive customer journey.
+All of this I do in my spare time from a main job, as a founder and Software Engineer at [True web artisans](https://truewebartisans.com/). The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. On a personal basis, I do commercial consulting about UX of a product, selecting the best growth strategy and building a positive customer journey.
+
+## Social
+
+- Dev.to blog: https://dev.to/koddr
+- Dribbble: https://dribbble.com/koddr
+- Behance: https://www.behance.net/koddr
 
 ## Statistics
 
