@@ -16,19 +16,17 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 - Dribbble: https://dribbble.com/koddr
 - Behance: https://www.behance.net/koddr
 
-## Statistics
+## Awesome GitHub repos by me or with my active support
 
-<a href="https://github.com/koddr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&layout=compact&langs_count=10&hide_border=true&theme=onedark&custom_title=Most+used+languages" alt="koddr's language stats" /></a>
-
-## Awesome projects by me or with my active support
-
-<a href="https://github.com/gofiber/fiber"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gofiber&repo=fiber&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/create-go-app/cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=cli&theme=onedark&show_owner=true&hide_border=true" /></a>
-
-<a href="https://github.com/hibiken/asynq"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hibiken&repo=asynq&theme=onedark&show_owner=true&hide_border=true" /></a>&nbsp;<a href="https://github.com/create-go-app/fiber-go-template"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=create-go-app&repo=fiber-go-template&theme=onedark&show_owner=true&hide_border=true" /></a>
+- Fiber (Go): https://github.com/gofiber/fiber
+- Create Go App CLI (Go): https://github.com/create-go-app/cli
+- Asynq (Go): https://github.com/hibiken/asynq
+- Fiber kickstart template (Go): https://github.com/create-go-app/fiber-go-template
 
 ## Dev.to badges
 
-[![dev.to badges](https://user-images.githubusercontent.com/11155743/148337528-c165e68f-e48b-4f4d-9615-2257826a0d98.png)](https://dev.to/koddr)
+[![dev.to badges](https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png)](https://dev.to/koddr)
+
 
 ## Thank you!
 
