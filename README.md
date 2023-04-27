@@ -22,6 +22,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 - Create Go App CLI (Go): https://github.com/create-go-app/cli
 - Asynq (Go): https://github.com/hibiken/asynq
 - Fiber kickstart template (Go): https://github.com/create-go-app/fiber-go-template
+- The Go Snippet Library: https://github.com/koddr/gosl
 
 ## Dev.to badges
 
