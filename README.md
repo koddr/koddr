@@ -20,9 +20,9 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 - Fiber (Go): https://github.com/gofiber/fiber
 - Create Go App CLI (Go): https://github.com/create-go-app/cli
-- Asynq (Go): https://github.com/hibiken/asynq
-- Fiber kickstart template (Go): https://github.com/create-go-app/fiber-go-template
 - The Go Snippet Library: https://github.com/koddr/gosl
+- JSON to CSV parser (Go): https://github.com/koddr/json2csv
+- Asynq (Go): https://github.com/hibiken/asynq
 
 ## Dev.to badges
 
