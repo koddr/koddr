@@ -20,6 +20,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 - Fiber (Go): https://github.com/gofiber/fiber
 - Create Go App CLI (Go): https://github.com/create-go-app/cli
+- Yet Another Task Runner (Go): https://github.com/koddr/yatr
 - The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser (Go): https://github.com/koddr/json2csv
 - Asynq (Go): https://github.com/hibiken/asynq
