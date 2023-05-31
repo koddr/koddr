@@ -25,6 +25,27 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 - JSON to CSV parser (Go): https://github.com/koddr/json2csv
 - Asynq (Go): https://github.com/hibiken/asynq
 
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/koddr">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koddr&theme=transparent" />
+  </a>
+  <a href="https://github.com/koddr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koddr&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/koddr">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koddr&theme=transparent" />
+  </a>
+  <a href="https://github.com/koddr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&langs_count=10&exclude_repo=&hide=makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br/>
+  <a href="https://github.com/koddr">
+    <img src="https://komarev.com/ghpvc/?username=koddr&color=blue&style=flat" />
+  </a>
+</p>
+
 ## Dev.to badges
 
 [![dev.to badges](https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png)](https://dev.to/koddr)
