@@ -10,12 +10,6 @@ So, I'm **Golang** lover, **UX** evangelist, **DX** philosopher and **UI** Dream
 
 All of this I do in my spare time from a main job, as a founder and Software Engineer at [**True web artisans**](https://github.com/truewebartisans). The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. On a personal basis, I do commercial consulting about UX of a product, selecting the best growth strategy and building a positive customer journey.
 
-## Social
-
-- Dev.to blog: https://dev.to/koddr
-- Dribbble: https://dribbble.com/koddr
-- Behance: https://www.behance.net/koddr
-
 ## Awesome GitHub repos by me or with my active support
 
 - Fiber (Go): https://github.com/gofiber/fiber
@@ -50,6 +44,11 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
 
 [![dev.to badges](https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png)](https://dev.to/koddr)
 
+## Social
+
+- Dev.to blog: https://dev.to/koddr
+- Dribbble: https://dribbble.com/koddr
+- Behance: https://www.behance.net/koddr
 
 ## Thank you!
 
