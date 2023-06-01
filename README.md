@@ -32,7 +32,7 @@ All of this I do in my spare time from a main job, as a founder and Software Eng
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=koddr&theme=transparent" />
   </a>
   <a href="https://github.com/koddr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&langs_count=10&exclude_repo=&hide=makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koddr&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
   <br/>
   <a href="https://github.com/koddr">
