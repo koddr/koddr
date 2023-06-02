@@ -11,13 +11,15 @@ Currently, I'm working in the following stack:
 - Backend
   - Go, Python, Kotlin
   - PostgreSQL, FerretDB, Redis, Asynq
+  - Nginx, Traefik
   - REST, gRPC
 - Frontend
   - Vue.js, Nuxt
   - Tailwind CSS
 - DevOps
+  - GitHub Actions 
   - Ansible, Terraform
-  - Nginx, Traefik
+  - Docker
 
 ## Awesome GitHub repos by me or with my active support
 
@@ -34,7 +36,7 @@ I'm a founder of a friendly & decentralized outsource company called [True web a
 
 ## Dev.to blog
 
-I write a very useful articles on my [Dev.to](https://dev.to/koddr) blog and do a lot of non-profit and Open Source projects on GitHub for people and robots.
+I write useful articles on my [Dev.to](https://dev.to/koddr) blog about developer tips and tricks and Open Source projects.
 
 [![dev.to badges](https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png)](https://dev.to/koddr)
 
