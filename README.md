@@ -26,9 +26,10 @@ Currently, I'm working in the following stack:
 - Fiber: https://github.com/gofiber/fiber
 - Asynq: https://github.com/hibiken/asynq
 - Create Go App CLI: https://github.com/create-go-app/cli
-- Yet Another Task Runner: https://github.com/koddr/yatr
 - The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser: https://github.com/koddr/json2csv
+- CSV to API parser: https://github.com/koddr/csv2api
+- Yet Another Task Runner (yatr): https://github.com/koddr/yatr
 
 ## My work
 
