@@ -19,7 +19,7 @@ Currently, I'm working in the following stack:
 - DevOps
   - GitHub Actions 
   - Ansible, Terraform
-  - Docker
+  - Docker, podman, ko
 
 ## Awesome GitHub repos by me or with my active support
 
