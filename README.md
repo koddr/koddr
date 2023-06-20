@@ -16,7 +16,7 @@ Currently, I'm working in the following stack:
 - Frontend
   - Vue.js, Nuxt
   - Tailwind CSS
-- DevOps
+- Tools, DevOps
   - GitHub Actions 
   - Ansible, Terraform
   - Docker, podman, ko
