@@ -10,7 +10,7 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go, Python, Kotlin
-  - PostgreSQL, FerretDB, Redis, Asynq
+  - PostgreSQL, Redis, Asynq
   - Nginx, Traefik
   - REST, gRPC
 - Frontend
