@@ -30,6 +30,7 @@ Currently, I'm working in the following stack:
 - JSON to CSV parser: https://github.com/koddr/json2csv
 - CSV to API parser: https://github.com/koddr/csv2api
 - Yet Another Task Runner (yatr): https://github.com/koddr/yatr
+- Go template for my next project: https://github.com/koddr/template-go
 
 ## My work
 
