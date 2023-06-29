@@ -14,7 +14,7 @@ Currently, I'm working in the following stack:
   - Nginx, Traefik
   - REST, gRPC
 - Frontend
-  - Vue.js, Nuxt
+  - Vue.js, Nuxt, htmx
   - Tailwind CSS
 - Tools, DevOps
   - GitHub Actions 
