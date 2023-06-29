@@ -21,26 +21,31 @@ Currently, I'm working in the following stack:
   - Ansible, Terraform
   - Docker, podman
 
-## Awesome GitHub repos by me or with my active support
+## Awesome GitHub repos
 
-- Fiber: https://github.com/gofiber/fiber
-- Asynq: https://github.com/hibiken/asynq
+By myself:
 - Create Go App CLI: https://github.com/create-go-app/cli
 - The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser: https://github.com/koddr/json2csv
 - CSV to API parser: https://github.com/koddr/csv2api
 - Yet Another Task Runner (yatr): https://github.com/koddr/yatr
 - Go template for my next project: https://github.com/koddr/template-go
+- Go [tutorials][repo_tutorials] and code [examples][repo_examples]
+
+With my active support:
+
+- Fiber: https://github.com/gofiber/fiber
+- Asynq: https://github.com/hibiken/asynq
 
 ## My work
 
-I'm a founder of a friendly & decentralized outsource company called [True web artisans](https://github.com/truewebartisans), which is engaged in the automation of business processes using modern technology. The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. Also, I do commercial product UX consulting, create UI design models, help clients choose the best growth strategy and building a positive customer journey in messengers.
+I'm a founder of a friendly & decentralized outsource company called [True web artisans][truewebartisans_url], which is engaged in the automation of business processes using modern technology. The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. Also, I do commercial product UX consulting, create UI design models, help clients choose the best growth strategy and building a positive customer journey in messengers.
 
 ## Dev.to blog
 
-I write useful articles on my [Dev.to](https://dev.to/koddr) blog about developer tips and tricks and Open Source projects.
+I write useful articles on my [Dev.to][devto_url] blog about developer tips and tricks and Open Source projects.
 
-[![dev.to badges](https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png)](https://dev.to/koddr)
+[![dev.to badges][devto_badgets_img]][devto_url]
 
 ## GitHub stats
 
@@ -66,3 +71,17 @@ I write useful articles on my [Dev.to](https://dev.to/koddr) blog about develope
 ## Thank you!
 
 If you want to give :octocat: GitHub star to any of my projects, **I would be very grateful**! 🥰
+
+<!-- Dev.to links -->
+
+[devto_url]: https://dev.to/koddr
+[devto_badgets_img]: https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png
+
+<!-- Repository links -->
+
+[repo_tutorials]: https://github.com/koddr?tab=repositories&q=tutorial&type=public&language=go&sort=name
+[repo_examples]: https://github.com/koddr?tab=repositories&q=example&type=public&language=go&sort=name
+
+<!-- README links -->
+
+[truewebartisans_url]: https://github.com/truewebartisans
