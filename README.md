@@ -10,16 +10,19 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go, Python, Kotlin
-  - PostgreSQL, Redis, Asynq
+  - PostgreSQL, Redis, SQLite
+  - RabbitMQ, Asynq
   - Nginx, Traefik
   - REST, gRPC
 - Frontend
-  - Vue.js, htmx
+  - Vue.js (Typescript), htmx
   - Tailwind CSS
-- Tools, DevOps
+  - Vite
+- Tools
   - GitHub Actions 
   - Ansible, Terraform
   - Docker, podman
+  - GoReleaser
 
 ## Awesome GitHub repos
 
