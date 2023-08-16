@@ -20,10 +20,10 @@ Currently, I'm working in the following stack:
   - Tailwind CSS, Mantine
   - Vite
 - Tools
-  - GitHub Actions, GitLab Runners
+  - GitHub Actions, GitLab Runners, n8n
   - Ansible, Terraform
   - Docker, podman
-  - GoReleaser
+  - GoReleaser, go-critic
 
 ## Awesome GitHub repos
 
