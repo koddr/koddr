@@ -11,14 +11,14 @@ Currently, I'm working in the following stack:
 - Backend
   - Go, Python, Kotlin
   - PostgreSQL, Redis, SQLite
-  - RabbitMQ, Asynq
+  - LISTEN/NOTIFY by PostgreSQL, Asynq
   - Nginx, Traefik
   - REST, gRPC
 - Frontend
   - Bun
   - Typescript
   - Next.js, Vue.js, htmx & hyperscript
-  - Tailwind CSS, Mantine
+  - Tailwind CSS, UnoCSS, Mantine
   - Vite, Parcel
 - Tools
   - GitHub Actions, GitLab Runners, n8n
