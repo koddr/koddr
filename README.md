@@ -15,10 +15,11 @@ Currently, I'm working in the following stack:
   - Nginx, Traefik
   - REST, gRPC
 - Frontend
+  - Bun
   - Typescript
-  - Next.js, Vue.js, htmx
+  - Next.js, Vue.js, htmx & hyperscript
   - Tailwind CSS, Mantine
-  - Vite
+  - Vite, Parcel
 - Tools
   - GitHub Actions, GitLab Runners, n8n
   - Ansible, Terraform
