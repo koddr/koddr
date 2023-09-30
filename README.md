@@ -28,7 +28,12 @@ Currently, I'm working in the following stack:
 
 ## Awesome GitHub repos
 
-By myself:
+My current active project is:
+
+[![gowebly logo][gowebly_img_url]][gowebly_url]
+
+Other projects:
+
 - Create Go App CLI: https://github.com/create-go-app/cli
 - The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser: https://github.com/koddr/json2csv
@@ -90,3 +95,5 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 <!-- README links -->
 
 [truewebartisans_url]: https://github.com/truewebartisans
+[gowebly_url]: https://github.com/gowebly/gowebly
+[gowebly_img_url]: https://github.com/gowebly/gowebly/assets/11155743/55c80da2-30c6-45e7-a813-1ddc42764480
