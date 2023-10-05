@@ -95,4 +95,4 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 
 [truewebartisans_url]: https://github.com/truewebartisans
 [gowebly_url]: https://github.com/gowebly/gowebly
-[gowebly_img_url]: https://user-images.githubusercontent.com/11155743/271663181-55c80da2-30c6-45e7-a813-1ddc42764480.png
+[gowebly_img_url]: https://github.com/gowebly/.github/blob/a8ae889ed2c5baefcd307ad4505161f98f75669f/images/gowebly-banner-logo.png
