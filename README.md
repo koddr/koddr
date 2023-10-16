@@ -33,6 +33,7 @@ My current active project is:
 
 Other projects:
 
+- A self-hosted solution for repository statistics https://github.com/koddr/wonderful-readme-stats
 - Create Go App CLI: https://github.com/create-go-app/cli
 - The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser: https://github.com/koddr/json2csv
