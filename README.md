@@ -23,7 +23,7 @@ Currently, I'm working in the following stack:
   - GitHub Actions, GitLab Runners, n8n
   - Ansible, Terraform
   - Docker, podman
-  - GoReleaser, go-critic
+  - GoReleaser, go-critic, templ
 
 ## Awesome GitHub repos
 
