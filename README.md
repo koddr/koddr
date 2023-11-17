@@ -29,7 +29,7 @@ Currently, I'm working in the following stack:
 
 My current active project is:
 
-[![gowebly logo][gowebly_img_url]][gowebly_url]
+<a href="https://github.com/gowebly/gowebly" target="_blank"><img width="99%" alt="gowebly project" src="https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-project-banner.svg"/></a>
 
 Other projects:
 
@@ -95,5 +95,3 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 <!-- README links -->
 
 [truewebartisans_url]: https://github.com/truewebartisans
-[gowebly_url]: https://github.com/gowebly/gowebly
-[gowebly_img_url]: https://raw.githubusercontent.com/gowebly/.github/main/images/gowebly-project-banner.svg
