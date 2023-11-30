@@ -47,10 +47,6 @@ With my active support:
 - Fiber: https://github.com/gofiber/fiber
 - Asynq: https://github.com/hibiken/asynq
 
-## My work
-
-I'm a founder of a friendly & decentralized outsource company called [True web artisans][truewebartisans_url], which is engaged in the automation of business processes using modern technology. The main areas of my specialization are Go, TypeScript, modern CSS, Docker and automation. Also, I do commercial product UX consulting, create UI design models, help clients choose the best growth strategy and building a positive customer journey in messengers.
-
 ## Dev.to blog
 
 I write useful articles on my [Dev.to][devto_url] blog about developer tips and tricks and Open Source projects.
