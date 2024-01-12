@@ -81,7 +81,7 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 <!-- Dev.to links -->
 
 [devto_url]: https://dev.to/koddr
-[devto_badgets_img]: https://user-images.githubusercontent.com/11155743/212004860-cbd54440-1707-4c38-859b-c3acd8eaac79.png
+[devto_badgets_img]: https://github.com/koddr/koddr/assets/11155743/c8072728-708d-4201-8671-e08ab1881186
 
 <!-- Repository links -->
 
