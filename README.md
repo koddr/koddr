@@ -9,21 +9,20 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python, Kotlin
+  - Go, Python
   - PostgreSQL, Redis, SQLite
-  - LISTEN/NOTIFY by PostgreSQL, Asynq
-  - Nginx, Traefik
-  - REST, gRPC
+  - Nginx
 - Frontend
-  - Typescript
-  - Next.js, Vue.js, htmx & hyperscript
-  - Tailwind CSS, UnoCSS, Mantine
+  - htmx
+  - Alpine.js
+  - Vue.js, Nuxt 3
+  - Tailwind CSS, daisyUI
   - Bun, Vite, Parcel
 - Tools
-  - GitHub Actions, GitLab Runners, n8n
-  - Ansible, Terraform
+  - GitHub Actions
   - Docker, podman
-  - GoReleaser, go-critic, templ
+  - n8n
+  - GoReleaser, go-critic, Templ
 
 ## Awesome GitHub repos
 
