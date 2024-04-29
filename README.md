@@ -11,7 +11,7 @@ Currently, I'm working in the following stack:
 - Backend
   - Go, Python
   - PostgreSQL, SQLite
-  - Nginx, Angie
+  - Nginx
 - Frontend
   - htmx
   - Alpine.js
