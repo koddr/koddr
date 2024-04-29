@@ -10,19 +10,18 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go, Python
-  - PostgreSQL, Redis, SQLite
-  - Nginx
+  - PostgreSQL, SQLite
+  - Nginx, Angie
 - Frontend
   - htmx
   - Alpine.js
   - Vue.js, Nuxt 3
   - Tailwind CSS, daisyUI
-  - Bun, Vite, Parcel
+  - Bun, Vite
 - Tools
   - GitHub Actions
   - Docker, podman
-  - n8n
-  - GoReleaser, go-critic, Templ
+  - GoReleaser, Templ
 
 ## Awesome GitHub repos
 
