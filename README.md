@@ -13,9 +13,8 @@ Currently, I'm working in the following stack:
   - PostgreSQL, SQLite
   - Nginx
 - Frontend
-  - htmx
-  - Alpine.js
-  - Vue.js, Nuxt 3
+  - Astro
+  - htmx, Alpine.js
   - Tailwind CSS, daisyUI
   - Bun, Vite
 - Tools
