@@ -15,7 +15,7 @@ Currently, I'm working in the following stack:
 - Frontend
   - Astro, Nuxt 3
   - htmx, Alpine.js, Vue.js
-  - Tailwind CSS, daisyUI
+  - Tailwind CSS, daisyUI, shadcn/ui
   - Bun, Vite
 - Tools
   - Docker
