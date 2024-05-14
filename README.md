@@ -9,17 +9,18 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python
+  - Go, Python, Typescript
   - PostgreSQL, SQLite
   - Nginx
 - Frontend
-  - Astro
-  - htmx, Alpine.js
+  - Astro, Nuxt 3
+  - htmx, Alpine.js, Vue.js
   - Tailwind CSS, daisyUI
   - Bun, Vite
 - Tools
+  - Docker
   - GitHub Actions
-  - Docker, podman
+  - NocoDB, n8n, PocketBase
   - GoReleaser, Templ
 
 ## Awesome GitHub repos
