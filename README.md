@@ -9,10 +9,11 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python, Typescript
+  - Go, Python
   - PostgreSQL, SQLite
   - Nginx
 - Frontend
+  - TypeScript
   - Astro, Nuxt 3
   - htmx, Alpine.js, Vue.js
   - Tailwind CSS, daisyUI, shadcn/ui
