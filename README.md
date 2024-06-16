@@ -14,8 +14,8 @@ Currently, I'm working in the following stack:
   - Nginx
 - Frontend
   - TypeScript
-  - Astro, Nuxt 3
-  - htmx, Alpine.js, Vue.js
+  - Astro, Nuxt 3, Next.js
+  - htmx, Alpine.js, Vue.js, React
   - Tailwind CSS, daisyUI, shadcn/ui
   - Bun, Vite
 - Tools
