@@ -10,14 +10,14 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go, Python
-  - PostgreSQL, SQLite
+  - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
   - Angular 18+
-  - Astro, Nuxt 3, Next.js
+  - Astro 4+, Nuxt 3+, Next.js 14+
   - htmx, Alpine.js
-  - Tailwind CSS, daisyUI, shadcn/ui
+  - Tailwind CSS, daisyUI, shadcn/ui, PrimeNG
   - Bun, Vite
 - Tools
   - Docker
