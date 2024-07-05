@@ -33,13 +33,13 @@ My current active project is:
 
 Other projects:
 
-- A self-hosted solution for repository statistics https://github.com/koddr/wonderful-readme-stats
+- The Go Snippet Library (gosl): https://github.com/koddr/gosl
+- Go template for my next project: https://github.com/koddr/template-go
 - Create Go App CLI: https://github.com/create-go-app/cli
-- The Go Snippet Library: https://github.com/koddr/gosl
 - JSON to CSV parser: https://github.com/koddr/json2csv
 - CSV to API parser: https://github.com/koddr/csv2api
 - Yet Another Task Runner (yatr): https://github.com/koddr/yatr
-- Go template for my next project: https://github.com/koddr/template-go
+- A self-hosted solution for GH repo statistics https://github.com/koddr/wonderful-readme-stats
 - Go [tutorials][repo_tutorials] and code [examples][repo_examples]
 
 With my active support:
