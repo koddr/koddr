@@ -22,7 +22,7 @@ Currently, I'm working in the following stack:
 - Tools
   - Docker
   - GitHub Actions
-  - NocoDB, n8n, PocketBase
+  - Strapi, NocoDB, n8n, PocketBase
   - GoReleaser, Templ
 
 ## Awesome GitHub repos
