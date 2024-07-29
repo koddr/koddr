@@ -10,19 +10,20 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go, Python
+  - Nest.js (Fastify)
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
   - Angular 18+
   - Astro 4+, Nuxt 3+, Next.js 14+
-  - htmx, Alpine.js
+  - htmx
   - Tailwind CSS, daisyUI, shadcn/ui, PrimeNG
   - Bun, Vite
 - Tools
   - Docker
   - GitHub Actions
-  - Strapi, NocoDB, n8n, PocketBase
+  - Directus, Strapi, NocoDB, n8n, PocketBase
   - GoReleaser, Templ
 
 ## Awesome GitHub repos
