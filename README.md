@@ -9,8 +9,7 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python
-  - Nest.js (Fastify)
+  - Go, Python, Node.js (Nest)
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
