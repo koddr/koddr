@@ -23,7 +23,7 @@ Currently, I'm working in the following stack:
   - Docker
   - GitHub Actions
   - Directus, Strapi, NocoDB, n8n, PocketBase
-  - GoReleaser, Templ
+  - Nx, GoReleaser, Templ
 
 ## Awesome GitHub repos
 
