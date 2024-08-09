@@ -47,6 +47,10 @@ With my active support:
 - Fiber: https://github.com/gofiber/fiber
 - Asynq: https://github.com/hibiken/asynq
 
+## Support me
+
+<a href="https://boosty.to/koddr/donate" target="_blank"><img width="356" alt="support me on Boosty" src="https://github.com/user-attachments/assets/ff7f9ed7-1fd6-4524-9c67-900c7843a6c6"/></a>
+
 ## Dev.to blog
 
 I write useful articles on my [Dev.to][devto_url] blog about developer tips and tricks and Open Source projects.
