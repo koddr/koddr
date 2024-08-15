@@ -9,19 +9,18 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python, Node.js (Nest)
+  - Go, Python, Node.js/Bun (Nest.js)
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
   - Angular 18+, Astro 4+, Nuxt 3+, Next.js 14+, htmx
   - Tailwind CSS, daisyUI, shadcn/ui, PrimeNG
-  - Bun, Vite
 - Tools
   - Docker
   - GitHub Actions
   - Directus, Strapi, NocoDB, n8n, PocketBase
-  - Nx, GoReleaser, Templ
+  - Nx, GoReleaser, Templ, Vite, esbuild
 
 ## Awesome GitHub repos
 
