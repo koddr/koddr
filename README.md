@@ -46,11 +46,11 @@ With my active support:
 
 ## Support me
 
-You can support me on [Boosty][boosty_url], both on a _permanent_ and on a _one-time_ basis. 
+You can support me on [Boosty][boosty_url], both on a _permanent_ and on a _one-time_ basis.
 
 All proceeds from this way will go to **support** my OSS projects and will energize me to **create** new products and articles for the community.
 
-<a href="https://boosty.to/koddr/donate" target="_blank"><img width="356" alt="support me on Boosty" src="https://github.com/user-attachments/assets/7bd4442f-2971-40dc-a84f-b1666747d8e7"/></a>
+<a href="https://boosty.to/koddr/donate" target="_blank"><img width="356" alt="support me on Boosty" src="https://raw.githubusercontent.com/koddr/.github/main/images/boosty-badge.svg"/></a>
 
 ## Dev.to blog
 
