@@ -46,7 +46,11 @@ With my active support:
 
 ## Support me
 
-<a href="https://boosty.to/koddr/donate" target="_blank"><img width="356" alt="support me on Boosty" src="https://github.com/user-attachments/assets/ff7f9ed7-1fd6-4524-9c67-900c7843a6c6"/></a>
+You can support me on [Boosty][boosty_url], both on a _permanent_ and on a _one-time_ basis. 
+
+All proceeds from this way will go to **support** my OSS projects and will energize me to **create** new products and articles for the community.
+
+<a href="https://boosty.to/koddr/donate" target="_blank"><img width="356" alt="support me on Boosty" src="https://github.com/user-attachments/assets/7bd4442f-2971-40dc-a84f-b1666747d8e7"/></a>
 
 ## Dev.to blog
 
@@ -91,4 +95,4 @@ If you want to give :octocat: GitHub star to any of my projects, **I would be ve
 
 <!-- README links -->
 
-[truewebartisans_url]: https://github.com/truewebartisans
+[boosty_url]: https://boosty.to/koddr
