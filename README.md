@@ -14,7 +14,7 @@ Currently, I'm working in the following stack:
   - Nginx
 - Frontend
   - TypeScript
-  - Angular 18+, Astro 4+, Nuxt 3+, Next.js 14+, htmx
+  - Angular 18+, Astro 4+, htmx
   - Tailwind CSS, daisyUI, shadcn/ui, PrimeNG
 - Tools
   - Docker
