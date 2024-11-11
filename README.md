@@ -9,13 +9,13 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python, Node.js/Bun (Nest.js)
+  - Go, Python, Node.js
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
   - Angular 18+, Astro 4+, htmx
-  - Tailwind CSS, daisyUI, shadcn/ui, Taiga UI
+  - Taiga UI, Tailwind CSS, daisyUI, shadcn/ui
 - Tools
   - Docker
   - GitHub Actions
