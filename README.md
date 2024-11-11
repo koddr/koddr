@@ -15,12 +15,12 @@ Currently, I'm working in the following stack:
 - Frontend
   - TypeScript
   - Angular 18+, Astro 4+, htmx
-  - Tailwind CSS, daisyUI, shadcn/ui, PrimeNG
+  - Tailwind CSS, daisyUI, shadcn/ui, Taiga UI
 - Tools
   - Docker
   - GitHub Actions
   - Directus, Strapi, NocoDB, n8n, PocketBase
-  - Nx, GoReleaser, Templ, Vite, esbuild
+  - Nx, NgRx Signals, GoReleaser, Templ, Vite, esbuild
 
 ## Awesome GitHub repos
 
