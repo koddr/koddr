@@ -14,14 +14,13 @@ Currently, I'm working in the following stack:
   - Nginx
 - Frontend
   - TypeScript
-  - Angular, Astro, htmx
-  - Taiga UI, Tailwind CSS, daisyUI
-  - NgRx Signals
+  - Angular, NgRx Signals
+  - Taiga UI, Tailwind CSS
 - Tools
   - Docker
   - GitHub Actions
   - Directus, Strapi, NocoDB, n8n, PocketBase
-  - Nx, GoReleaser, Templ, Vite, esbuild
+  - Nx, GoReleaser, esbuild
 
 ## Awesome GitHub repos
 
