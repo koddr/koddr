@@ -9,18 +9,19 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go, Python, Node.js
+  - Go
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
-  - Angular 18+, Astro 4+, htmx
-  - Taiga UI, Tailwind CSS, daisyUI, shadcn/ui
+  - Angular, Astro, htmx
+  - Taiga UI, Tailwind CSS, daisyUI
+  - NgRx Signals
 - Tools
   - Docker
   - GitHub Actions
   - Directus, Strapi, NocoDB, n8n, PocketBase
-  - Nx, NgRx Signals, GoReleaser, Templ, Vite, esbuild
+  - Nx, GoReleaser, Templ, Vite, esbuild
 
 ## Awesome GitHub repos
 
