@@ -10,7 +10,7 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go
-  - PostgreSQL, Redis, SQLite
+  - PostgreSQL, Redis / Valkey, SQLite
   - Nginx
 - Frontend
   - TypeScript
