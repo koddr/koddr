@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-My name is **Vic Shóstak**. I'm a Software Engineer with excellent UX/UI knowledge and over 13 years of practical experience.
+My name is **Vic Shóstak**. I'm a Software Engineer with excellent UX/UI knowledge and over 14 years of practical experience.
 
 ### Technical expertise
 
@@ -10,16 +10,16 @@ Currently, I'm working in the following stack:
 
 - Backend
   - Go
-  - PostgreSQL, Redis / Valkey, SQLite
+  - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
   - TypeScript
   - Angular, NgRx Signals
-  - Taiga UI, Tailwind CSS
+  - Taiga UI, daisyUI, Tailwind CSS
 - Tools
   - Docker
   - GitHub Actions
-  - Directus, Strapi, NocoDB, n8n, PocketBase
+  - Directus, Strapi, n8n, PocketBase
   - Nx, GoReleaser, esbuild
 
 ## Awesome GitHub repos
