@@ -9,7 +9,7 @@ In more than 13 years of successful work in the IT industry, my technology stack
 Currently, I'm working in the following stack:
 
 - Backend
-  - Go
+  - Go, Node.js (NestJS, Fastify)
   - PostgreSQL, Redis, SQLite
   - Nginx
 - Frontend
@@ -19,7 +19,7 @@ Currently, I'm working in the following stack:
 - Tools
   - Docker
   - GitHub Actions
-  - Directus, Strapi, n8n, PocketBase
+  - Directus, Strapi, n8n
   - Nx, GoReleaser, esbuild
 
 ## Awesome GitHub repos
