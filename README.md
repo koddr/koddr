@@ -4,7 +4,7 @@ My name is **Vic Shóstak**. I'm a Software Engineer with excellent UX/UI knowl
 
 ### Technical expertise
 
-In more than 13 years of successful work in the IT industry, my technology stack has changed many times, but the technical expertise has always remained at the highest level. I think it's important, not just to write clean code and make a supported infrastructure or create a wonderful UI design, but to look for the root of the problem in the task at hand.
+In more than 14 years of successful work in the IT industry, my technology stack has changed many times, but the technical expertise has always remained at the highest level. I think it's important, not just to write clean code and make a supported infrastructure or create a wonderful UI design, but to look for the root of the problem in the task at hand.
 
 Currently, I'm working in the following stack:
 
