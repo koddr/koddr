@@ -16,11 +16,12 @@ Currently, I'm working in the following stack:
   - TypeScript
   - Angular, NgRx Signals
   - Taiga UI, daisyUI, Tailwind CSS
+  - templ UI
 - Tools
   - Docker
   - GitHub Actions
   - Directus, Strapi, n8n
-  - Nx, GoReleaser, esbuild
+  - Nx, GoReleaser, templ, esbuild
 
 ## Awesome GitHub repos
 
